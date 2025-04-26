@@ -753,7 +753,7 @@ footer .copyright {
   }
   #features .feat-box {
     width: 151px;
-    margin: 0 0 15px 0;
+    margin: 15px;
   }
   #feat-products .product {
     width: 100%;
