@@ -799,8 +799,8 @@ footer .copyright {
   }
   #smaller-banners .banner-box {
     height: 20vh;
-
     background-position: 60%;
+    margin: 3px;
   }
   #newsletter {
     margin: 10px 0;
