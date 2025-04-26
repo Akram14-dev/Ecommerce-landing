@@ -772,6 +772,8 @@ footer .copyright {
   }
   #smaller-banners {
     padding: 20px;
+    padding-top: 0;
+
   }
   #smaller-banners h3 {
     top: 0px;
